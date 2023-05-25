@@ -76,7 +76,7 @@ else:
 
 # Output : 
 
-![](https://github.com/RanjithD18/Poisson_distribution/blob/main/2.png)
+![hi](https://github.com/RanjithD18/Poisson_distribution/blob/main/2.png)
 
 # Results
 
